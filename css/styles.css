@@ -33,6 +33,7 @@ tr:hover {
 a{
   color: #40e0d0;;
   font-family:'Montserrat', sans-serif ;
+  font-size: 15px;
   margin: 10px 20px;
   text-decoration: none;
 }
@@ -108,15 +109,17 @@ color: #40e0d0;
   }
   .tdetails{
     margin-top:0;
-    padding-left:450px;
+    padding-left:440px;
     font-size: 18px;
 
   }
-  .Contact{
+  .Bottom{
     text-align: center;
-    padding-top:  50px;
+    padding-top:  100px;
     padding-bottom: 20px;
   }
+
+
   .btn{
   background: #11cdd4;
   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
@@ -154,4 +157,5 @@ color: #40e0d0;
 .cr{
   color: grey;
   margin-top:10px;
+  font-size: 15px;
 }
